@@ -1,0 +1,6 @@
+[submodule "project-spider-man"]
+	path = project-spider-man
+	url = https://github.com/Eor13/project-spider-man.git
+[submodule "spiderman"]
+	path = spiderman
+	url = https://github.com/edubrook27/spiderman.git
